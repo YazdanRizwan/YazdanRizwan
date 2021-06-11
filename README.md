@@ -6,7 +6,7 @@
   <li>🌱 I’m currently learning JavaScript .</li>
   <li>👯 I’m looking to collaborate on awesome projects .</li>
   <li>🤔 I’m looking for help with guidance and data structures .</li>
-  <li>💬 Ask me about things you want .</li>ś
+  <li>💬 Ask me about things you want .</li>
   <li>📫 Reach me at: yazdans2519@gmail.com</li>
  </ul>
 
