@@ -3,7 +3,7 @@
 <h3 align="center">I am a 2nd yr B.Tech( CS Branch ) student.</h1>
 <ul align="center">
   <li>🔭 I’m currently working on my skills .</li>
-  <li>🌱 I’m currently learning JavaScript .</li>
+  <li>🌱 Exploring the field of web development .</li>
   <li>👯 I’m looking to collaborate on awesome projects .</li>
   <li>🤔 I’m looking for help with guidance and data structures .</li>
   <li>💬 Ask me about things you want .</li>
