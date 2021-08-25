@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey!!  It's Md Yazdan Rizwan 👋</h1>
-<h3 align="center">I am a 2nd yr B.Tech( CS Branch ) student.</h1>
+<h3 align="center">I am a 3rd yr B.Tech( CS Branch ) student.</h1>
 <ul align="center">
   <li>🔭 I’m currently working on my skills .</li>
   <li>🌱 Exploring the field of app development .</li>
